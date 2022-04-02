@@ -2,8 +2,9 @@
 
 ## define objet
 
-const playerName = "nico";
-const playerPoints = 1232323;
+```
+const playerName = "nico";  
+const playerPoints = 1232323;  
 const playerHandsome = false;
 const playerFat = "little bit";
 
@@ -13,3 +14,4 @@ const player = {
     handsome: false,
     fat: "little bit",
 };
+```
