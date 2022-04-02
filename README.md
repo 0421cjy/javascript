@@ -1,6 +1,6 @@
 # javascript
 
-## define objet
+## define object
 
 ```
 const playerName = "nico";  
