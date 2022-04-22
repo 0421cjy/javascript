@@ -14,4 +14,12 @@ const player = {
     handsome: false,
     fat: "little bit",
 };
+
+const arr = [];
+const arr2 = ['zero', 'one', 'two']
+
+for (let i = 0; i < arr2.length; i++) {
+    console.log(arr2[i]);
+};
+
 ```
